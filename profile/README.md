@@ -41,7 +41,7 @@ Read the full standard → **[dirjournal.com/why-trust](https://www.dirjournal.c
 ## Contact
 
 - 🌐 **Web** — [www.dirjournal.com](https://www.dirjournal.com)
-- ✉️ **Email** — hello@dirjournal.com
+- ✉️ **Email** — info@dirjournal.com
 - 🧾 **Editorial** — [/blogs](https://www.dirjournal.com/blogs)
 
 ---
