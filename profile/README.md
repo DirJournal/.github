@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://www.dirjournal.com/favicon-192.png" alt="DirJournal" width="120" />
+  <img src="https://raw.githubusercontent.com/DirJournal/.github/main/dirjournal-logo-512.png" alt="DirJournal"
+  width="120" />
 
   # DirJournal
 
